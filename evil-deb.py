@@ -10,7 +10,7 @@
 #(_______/   \_/   \_______/(_______/ (______/ (_______/|/ \___/ 0.6v.
 #                                                               
 #                         Malicious Debain Package Creator
-#                         WebSite :: http://haxkur1.mozello.com/
+#                         WebSite :: http://www.haxkur.tk/
 #			     By: @Killerpop
 
 ##
