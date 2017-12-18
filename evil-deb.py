@@ -60,7 +60,7 @@ def printer():
 (_______/   \_/   \_______/(_______/ (______/ (_______/|/ \___/ 0.6v.
                                                                
                          Malicious Debian Package Creator
-                         WebSite :: http://haxkur1.mozello.com/
+                         WebSite :: http://www.haxkur.tk/
 			     By: @Killerpop
 
 
