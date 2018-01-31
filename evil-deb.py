@@ -63,6 +63,10 @@ def printer():
                          WebSite :: http://www.haxkur.tk/
 			                               By: @Killerpop
 
+WARNING: 
+This tool is created for didactic purposes and not to commit a crime. 
+Haxk.Ur does not take care of any malicious use of the tool. 
+We recommend the use in a controlled laboratory.       By Staff Haxk.Ur
 
   """
 def main():
