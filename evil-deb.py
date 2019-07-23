@@ -10,7 +10,7 @@
 #(_______/   \_/   \_______/(_______/ (______/ (_______/|/ \___/ 1.0v.
 #                                                               
 #                         Malicious Debain Package Creator
-#                         WebSite :: http://www.haxkur.tk/
+#                         WebSite :: https://www.haxkur.ml/
 #			                               By: @Killerpop
 
 ##
@@ -60,7 +60,7 @@ def printer():
 (_______/   \_/   \_______/(_______/ (______/ (_______/|/ \___/ 1.0v.
                                                                
                          Malicious Debian Package Creator
-                         WebSite :: http://www.haxkur.tk/
+                         WebSite :: https://www.haxkur.ml/
 			                               By: @Killerpop
 
 WARNING: 
