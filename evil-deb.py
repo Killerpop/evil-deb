@@ -10,8 +10,8 @@
 #(_______/   \_/   \_______/(_______/ (______/ (_______/|/ \___/ 1.0v.
 #                                                               
 #                         Malicious Debain Package Creator
-#                         WebSite :: https://www.haxkur.ml/
-#			                               By: @Killerpop
+#                         WebSite :: https://www.greyhelmet.ml/
+#			                               By: Gustavo Zaballa (Killerpop)
 
 ##
 # Information :::
@@ -60,13 +60,13 @@ def printer():
 (_______/   \_/   \_______/(_______/ (______/ (_______/|/ \___/ 1.0v.
                                                                
                          Malicious Debian Package Creator
-                         WebSite :: https://www.haxkur.ml/
-			                               By: @Killerpop
+                        WebSite :: https://www.greyhelmet.ml/
+			                               By: Gustavo Zaballa (Killerpop)
 
 WARNING: 
 This tool is created for didactic purposes and not to commit a crime. 
 Haxk.Ur does not take care of any malicious use of the tool. 
-We recommend the use in a controlled laboratory.       By Staff Haxk.Ur
+We recommend the use in a controlled laboratory.       By Staff GreyHelmet Sec
 
   """
 def main():
